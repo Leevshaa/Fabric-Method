@@ -1,4 +1,4 @@
-package app;
+package app.Interface;
 
 public class Car implements Transport {
 
